@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+matplotlib
+joblib
+pyarrow
+streamlit==1.31.1
+matplotlib
+numpy
+pickle
+transformers
